@@ -1,0 +1,3 @@
+C:\Users\matth\OneDrive\other\Documents\GitHub\RaylibBasicWindow\x64\Debug\RaylibBasicWindow.vcxproj.CopyComplete
+C:\Users\matth\OneDrive\other\Documents\GitHub\RaylibBasicWindow\x64\Debug\RaylibBasicWindow.exe
+C:\Users\matth\OneDrive\other\Documents\GitHub\RaylibBasicWindow\x64\Debug\raylib.dll
