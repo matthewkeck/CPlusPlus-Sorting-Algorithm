@@ -3,13 +3,13 @@
   "spdxVersion": "SPDX-2.2",
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
-  "documentNamespace": "https://spdx.org/spdxdocs/vcpkg-cmake-x64-windows-2022-06-07-5006fe3e-5973-4a9a-883d-45b20df00dc3",
-  "name": "vcpkg-cmake:x64-windows@2022-06-07 13ce36e508e0039cdbe186c48765bfc1d79f76308ee12689bda013ee8496e3bf",
+  "documentNamespace": "https://spdx.org/spdxdocs/vcpkg-cmake-x64-windows-2022-07-02-4c56d17b-93b5-4bb4-b530-4833d55b834a",
+  "name": "vcpkg-cmake:x64-windows@2022-07-02 372756d13c320f503c2fc55ce167d9d9ccc28a8099ffa3718e98e4b982a7075b",
   "creationInfo": {
     "creators": [
       "Tool: vcpkg-9268e366206712e38102b28dbd1617697a99ff2e"
     ],
-    "created": "2022-07-03T22:19:58Z"
+    "created": "2022-07-13T22:25:14Z"
   },
   "relationships": [
     {
@@ -92,7 +92,7 @@
     {
       "name": "vcpkg-cmake",
       "SPDXID": "SPDXRef-port",
-      "versionInfo": "2022-06-07",
+      "versionInfo": "2022-07-02",
       "downloadLocation": "NOASSERTION",
       "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
@@ -102,7 +102,7 @@
     {
       "name": "vcpkg-cmake:x64-windows",
       "SPDXID": "SPDXRef-binary",
-      "versionInfo": "13ce36e508e0039cdbe186c48765bfc1d79f76308ee12689bda013ee8496e3bf",
+      "versionInfo": "372756d13c320f503c2fc55ce167d9d9ccc28a8099ffa3718e98e4b982a7075b",
       "downloadLocation": "NONE",
       "licenseConcluded": "MIT",
       "licenseDeclared": "NOASSERTION",
@@ -141,7 +141,7 @@
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "a9b19e1b481b5ad0f08a719b2aa0d75987f43ef89d74d4a90df005425191533a"
+          "checksumValue": "04953ac5c49fedeb7e4ba8d7e18493aac55e1a46deda273b954d70f1a8b40a85"
         }
       ],
       "licenseConcluded": "NOASSERTION",
@@ -165,7 +165,7 @@
       "checksums": [
         {
           "algorithm": "SHA256",
-          "checksumValue": "759aac29f5b063cc9e42145d62bc00b124a657ed074e439bbe63ee2a2319c53a"
+          "checksumValue": "de7294e0c95a0276d693dfa63a78d99f66bd2aa3fcb50ea7c055e46958980c39"
         }
       ],
       "licenseConcluded": "NOASSERTION",

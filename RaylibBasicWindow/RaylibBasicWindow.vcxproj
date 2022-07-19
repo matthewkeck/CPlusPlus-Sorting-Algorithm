@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ee496774-9273-42f1-93a1-0ea86c73ad8c}</ProjectGuid>
+    <ProjectGuid>{55a8919b-7305-45e3-98a6-51596183a89b}</ProjectGuid>
     <RootNamespace>RaylibBasicWindow</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
